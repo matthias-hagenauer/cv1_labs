@@ -1,0 +1,496 @@
+--------------------------------------------------------------------------
+Testrun for 1000 centroids and sift_0.4
+
+Kernel: linear, C: 0.1
+Class Frog: AP = 0.1938
+Class Automobile: AP = 0.3777
+Class Bird: AP = 0.1820
+Class Cat: AP = 0.1818
+Class Deer: AP = 0.1772
+
+Mean AP of all classes: 0.2225
+
+
+Kernel: linear, C: 1
+Class Frog: AP = 0.1982
+Class Automobile: AP = 0.3486
+Class Bird: AP = 0.1829
+Class Cat: AP = 0.1848
+Class Deer: AP = 0.1776
+
+Mean AP of all classes: 0.2184
+
+
+Kernel: linear, C: 10
+Class Frog: AP = 0.1975
+Class Automobile: AP = 0.3155
+Class Bird: AP = 0.1905
+Class Cat: AP = 0.1834
+Class Deer: AP = 0.1743
+
+Mean AP of all classes: 0.2123
+
+
+Kernel: rbf, C: 0.1
+Class Frog: AP = 0.1906
+Class Automobile: AP = 0.3951
+Class Bird: AP = 0.1915
+Class Cat: AP = 0.1888
+Class Deer: AP = 0.1799
+
+Mean AP of all classes: 0.2292
+
+
+Kernel: rbf, C: 1
+Class Frog: AP = 0.1909
+Class Automobile: AP = 0.3937
+Class Bird: AP = 0.1915
+Class Cat: AP = 0.1888
+Class Deer: AP = 0.1799
+
+Mean AP of all classes: 0.2289
+
+
+Kernel: rbf, C: 10
+Class Frog: AP = 0.1845
+Class Automobile: AP = 0.3788
+Class Bird: AP = 0.1847
+Class Cat: AP = 0.1839
+Class Deer: AP = 0.1808
+
+Mean AP of all classes: 0.2225
+
+--------------------------------------------------------------------------
+Testrun for 1000 centroids and sift_0.6
+
+Kernel: linear, C: 0.1
+Class Frog: AP = 0.1638
+Class Automobile: AP = 0.4004
+Class Bird: AP = 0.1921
+Class Cat: AP = 0.1780
+Class Deer: AP = 0.1957
+
+Mean AP of all classes: 0.2260
+
+
+Kernel: linear, C: 1
+Class Frog: AP = 0.1656
+Class Automobile: AP = 0.3496
+Class Bird: AP = 0.1860
+Class Cat: AP = 0.1780
+Class Deer: AP = 0.1917
+
+Mean AP of all classes: 0.2142
+
+
+Kernel: linear, C: 10
+Class Frog: AP = 0.1710
+Class Automobile: AP = 0.3241
+Class Bird: AP = 0.1866
+Class Cat: AP = 0.1761
+Class Deer: AP = 0.1943
+
+Mean AP of all classes: 0.2104
+
+
+Kernel: rbf, C: 0.1
+Class Frog: AP = 0.1636
+Class Automobile: AP = 0.4283
+Class Bird: AP = 0.1905
+Class Cat: AP = 0.1848
+Class Deer: AP = 0.1896
+
+Mean AP of all classes: 0.2314
+
+
+Kernel: rbf, C: 1
+Class Frog: AP = 0.1637
+Class Automobile: AP = 0.4283
+Class Bird: AP = 0.1906
+Class Cat: AP = 0.1847
+Class Deer: AP = 0.1897
+
+Mean AP of all classes: 0.2314
+
+
+Kernel: rbf, C: 10
+Class Frog: AP = 0.1617
+Class Automobile: AP = 0.3839
+Class Bird: AP = 0.1946
+Class Cat: AP = 0.1805
+Class Deer: AP = 0.1893
+
+Mean AP of all classes: 0.2220
+
+--------------------------------------------------------------------------
+Testrun for 1000 centroids and sift_0.8
+
+Kernel: linear, C: 0.1
+Class Frog: AP = 0.1750
+Class Automobile: AP = 0.3398
+Class Bird: AP = 0.1995
+Class Cat: AP = 0.1691
+Class Deer: AP = 0.1948
+
+Mean AP of all classes: 0.2156
+
+
+Kernel: linear, C: 1
+Class Frog: AP = 0.1742
+Class Automobile: AP = 0.2939
+Class Bird: AP = 0.2031
+Class Cat: AP = 0.1674
+Class Deer: AP = 0.1971
+
+Mean AP of all classes: 0.2072
+
+
+Kernel: linear, C: 10
+Class Frog: AP = 0.1797
+Class Automobile: AP = 0.2933
+Class Bird: AP = 0.2056
+Class Cat: AP = 0.1690
+Class Deer: AP = 0.1939
+
+Mean AP of all classes: 0.2083
+
+
+Kernel: rbf, C: 0.1
+Class Frog: AP = 0.1718
+Class Automobile: AP = 0.3857
+Class Bird: AP = 0.1933
+Class Cat: AP = 0.1694
+Class Deer: AP = 0.1940
+
+Mean AP of all classes: 0.2228
+
+
+Kernel: rbf, C: 1
+Class Frog: AP = 0.1719
+Class Automobile: AP = 0.3868
+Class Bird: AP = 0.1930
+Class Cat: AP = 0.1694
+Class Deer: AP = 0.1940
+
+Mean AP of all classes: 0.2230
+
+
+Kernel: rbf, C: 10
+Class Frog: AP = 0.1710
+Class Automobile: AP = 0.3664
+Class Bird: AP = 0.1857
+Class Cat: AP = 0.1712
+Class Deer: AP = 0.1934
+
+Mean AP of all classes: 0.2175
+
+--------------------------------------------------------------------------
+Testrun for 1000 centroids and sift_1
+
+Kernel: linear, C: 0.1
+Class Frog: AP = 0.1711
+Class Automobile: AP = 0.4206
+Class Bird: AP = 0.1872
+Class Cat: AP = 0.1740
+Class Deer: AP = 0.1611
+
+Mean AP of all classes: 0.2228
+
+
+Kernel: linear, C: 1
+Class Frog: AP = 0.1705
+Class Automobile: AP = 0.3917
+Class Bird: AP = 0.1843
+Class Cat: AP = 0.1798
+Class Deer: AP = 0.1662
+
+Mean AP of all classes: 0.2185
+
+
+Kernel: linear, C: 10
+Class Frog: AP = 0.1693
+Class Automobile: AP = 0.3642
+Class Bird: AP = 0.1828
+Class Cat: AP = 0.1865
+Class Deer: AP = 0.1697
+
+Mean AP of all classes: 0.2145
+
+
+Kernel: rbf, C: 0.1
+Class Frog: AP = 0.1698
+Class Automobile: AP = 0.4306
+Class Bird: AP = 0.1842
+Class Cat: AP = 0.1810
+Class Deer: AP = 0.1676
+
+Mean AP of all classes: 0.2266
+
+
+Kernel: rbf, C: 1
+Class Frog: AP = 0.1698
+Class Automobile: AP = 0.4316
+Class Bird: AP = 0.1842
+Class Cat: AP = 0.1811
+Class Deer: AP = 0.1676
+
+Mean AP of all classes: 0.2269
+
+
+Kernel: rbf, C: 10
+Class Frog: AP = 0.1667
+Class Automobile: AP = 0.3813
+Class Bird: AP = 0.1880
+Class Cat: AP = 0.1850
+Class Deer: AP = 0.1683
+
+Mean AP of all classes: 0.2179
+
+--------------------------------------------------------------------------
+Testrun for 1000 centroids and orb_0.4
+
+Kernel: linear, C: 0.1
+Class Frog: AP = 0.1901
+Class Automobile: AP = 0.2509
+Class Bird: AP = 0.1950
+Class Cat: AP = 0.1966
+Class Deer: AP = 0.2174
+
+Mean AP of all classes: 0.2100
+
+
+Kernel: linear, C: 1
+Class Frog: AP = 0.1859
+Class Automobile: AP = 0.2284
+Class Bird: AP = 0.1942
+Class Cat: AP = 0.1996
+Class Deer: AP = 0.2273
+
+Mean AP of all classes: 0.2071
+
+
+Kernel: linear, C: 10
+Class Frog: AP = 0.1824
+Class Automobile: AP = 0.2294
+Class Bird: AP = 0.1881
+Class Cat: AP = 0.2000
+Class Deer: AP = 0.2371
+
+Mean AP of all classes: 0.2074
+
+
+Kernel: rbf, C: 0.1
+Class Frog: AP = 0.1867
+Class Automobile: AP = 0.2516
+Class Bird: AP = 0.1904
+Class Cat: AP = 0.2026
+Class Deer: AP = 0.2159
+
+Mean AP of all classes: 0.2095
+
+
+Kernel: rbf, C: 1
+Class Frog: AP = 0.1868
+Class Automobile: AP = 0.2514
+Class Bird: AP = 0.1905
+Class Cat: AP = 0.2028
+Class Deer: AP = 0.2160
+
+Mean AP of all classes: 0.2095
+
+
+Kernel: rbf, C: 10
+Class Frog: AP = 0.1823
+Class Automobile: AP = 0.2347
+Class Bird: AP = 0.1876
+Class Cat: AP = 0.1928
+Class Deer: AP = 0.2167
+
+Mean AP of all classes: 0.2028
+
+--------------------------------------------------------------------------
+Testrun for 1000 centroids and orb_0.6
+
+Kernel: linear, C: 0.1
+Class Frog: AP = 0.1986
+Class Automobile: AP = 0.2569
+Class Bird: AP = 0.1909
+Class Cat: AP = 0.1850
+Class Deer: AP = 0.1963
+
+Mean AP of all classes: 0.2056
+
+
+Kernel: linear, C: 1
+Class Frog: AP = 0.2013
+Class Automobile: AP = 0.2441
+Class Bird: AP = 0.2011
+Class Cat: AP = 0.1835
+Class Deer: AP = 0.1968
+
+Mean AP of all classes: 0.2054
+
+
+Kernel: linear, C: 10
+Class Frog: AP = 0.1970
+Class Automobile: AP = 0.2377
+Class Bird: AP = 0.1996
+Class Cat: AP = 0.1850
+Class Deer: AP = 0.1966
+
+Mean AP of all classes: 0.2032
+
+
+Kernel: rbf, C: 0.1
+Class Frog: AP = 0.1864
+Class Automobile: AP = 0.2615
+Class Bird: AP = 0.1896
+Class Cat: AP = 0.1983
+Class Deer: AP = 0.2024
+
+Mean AP of all classes: 0.2077
+
+
+Kernel: rbf, C: 1
+Class Frog: AP = 0.1864
+Class Automobile: AP = 0.2620
+Class Bird: AP = 0.1898
+Class Cat: AP = 0.1983
+Class Deer: AP = 0.2023
+
+Mean AP of all classes: 0.2078
+
+
+Kernel: rbf, C: 10
+Class Frog: AP = 0.1931
+Class Automobile: AP = 0.2443
+Class Bird: AP = 0.1877
+Class Cat: AP = 0.1870
+Class Deer: AP = 0.2006
+
+Mean AP of all classes: 0.2026
+
+--------------------------------------------------------------------------
+Testrun for 1000 centroids and orb_0.8
+
+Kernel: linear, C: 0.1
+Class Frog: AP = 0.1922
+Class Automobile: AP = 0.2346
+Class Bird: AP = 0.1801
+Class Cat: AP = 0.2090
+Class Deer: AP = 0.2160
+
+Mean AP of all classes: 0.2064
+
+
+Kernel: linear, C: 1
+Class Frog: AP = 0.1948
+Class Automobile: AP = 0.2297
+Class Bird: AP = 0.1792
+Class Cat: AP = 0.2029
+Class Deer: AP = 0.2153
+
+Mean AP of all classes: 0.2044
+
+
+Kernel: linear, C: 10
+Class Frog: AP = 0.1990
+Class Automobile: AP = 0.2253
+Class Bird: AP = 0.1754
+Class Cat: AP = 0.1993
+Class Deer: AP = 0.2093
+
+Mean AP of all classes: 0.2017
+
+
+Kernel: rbf, C: 0.1
+Class Frog: AP = 0.2005
+Class Automobile: AP = 0.2341
+Class Bird: AP = 0.1806
+Class Cat: AP = 0.2021
+Class Deer: AP = 0.2245
+
+Mean AP of all classes: 0.2084
+
+
+Kernel: rbf, C: 1
+Class Frog: AP = 0.2004
+Class Automobile: AP = 0.2340
+Class Bird: AP = 0.1807
+Class Cat: AP = 0.2020
+Class Deer: AP = 0.2247
+
+Mean AP of all classes: 0.2084
+
+
+Kernel: rbf, C: 10
+Class Frog: AP = 0.2100
+Class Automobile: AP = 0.2148
+Class Bird: AP = 0.1780
+Class Cat: AP = 0.1916
+Class Deer: AP = 0.2300
+
+Mean AP of all classes: 0.2049
+
+--------------------------------------------------------------------------
+Testrun for 1000 centroids and orb_1
+
+Kernel: linear, C: 0.1
+Class Frog: AP = 0.2200
+Class Automobile: AP = 0.2537
+Class Bird: AP = 0.1683
+Class Cat: AP = 0.2264
+Class Deer: AP = 0.2004
+
+Mean AP of all classes: 0.2137
+
+
+Kernel: linear, C: 1
+Class Frog: AP = 0.2165
+Class Automobile: AP = 0.2506
+Class Bird: AP = 0.1705
+Class Cat: AP = 0.2232
+Class Deer: AP = 0.2048
+
+Mean AP of all classes: 0.2131
+
+
+Kernel: linear, C: 10
+Class Frog: AP = 0.2165
+Class Automobile: AP = 0.2455
+Class Bird: AP = 0.1723
+Class Cat: AP = 0.2205
+Class Deer: AP = 0.2024
+
+Mean AP of all classes: 0.2114
+
+
+Kernel: rbf, C: 0.1
+Class Frog: AP = 0.2183
+Class Automobile: AP = 0.2735
+Class Bird: AP = 0.1711
+Class Cat: AP = 0.2074
+Class Deer: AP = 0.1978
+
+Mean AP of all classes: 0.2136
+
+
+Kernel: rbf, C: 1
+Class Frog: AP = 0.2184
+Class Automobile: AP = 0.2740
+Class Bird: AP = 0.1710
+Class Cat: AP = 0.2073
+Class Deer: AP = 0.1978
+
+Mean AP of all classes: 0.2137
+
+
+Kernel: rbf, C: 10
+Class Frog: AP = 0.2238
+Class Automobile: AP = 0.2306
+Class Bird: AP = 0.1730
+Class Cat: AP = 0.1999
+Class Deer: AP = 0.2005
+
+Mean AP of all classes: 0.2056
+
